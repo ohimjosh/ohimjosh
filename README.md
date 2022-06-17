@@ -1,6 +1,6 @@
 ### Oh, im Josh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
-I am a Senior majoring in Computer Science at **CUNY City College of New York**, with an interest in full-stack development. 
+I am a Senior majoring in Computer Science at **CUNY City College of New York**, with an interest in full-stack development. I love how flexible and diverse the field of Computer Science is and wish to explore different topics. Thank you for looking at my profile and hope you find something interesting! 
 
 ## ☕ Learn About Me: 
 - 🙌 Summer 2022 Software Engineering Fellow at [**HeadStarter**](https://www.theheadstarter.com/)
