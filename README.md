@@ -1,4 +1,4 @@
-### Oh, im Josh!
+### Oh, im Josh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
 I am a Senior majoring in Computer Science at **CUNY City College of New York**, with an interest in full-stack development. 
 
