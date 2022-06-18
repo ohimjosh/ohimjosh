@@ -4,7 +4,7 @@ I am a Senior majoring in Computer Science at **CUNY City College of New York**,
 
 ## ☕ Learn About Me: 
 - 🙌 Summer 2022 Software Engineering Fellow at [**HeadStarter**](https://www.theheadstarter.com/)
-- 💻 I am currently learning JavaScript.
+- 💻 Currently learning JavaScript.
 - 🤹 My Skills: Python, JavaScript, HTML, CSS, Flask, SQL, Django, Jinja2
 - 🐱‍👓 Hobbies: Jiu-Jitsu, Weightlifting, Hiking, Anime, Videogames
 - 📫 Contact me at <a align="center" href="https://www.linkedin.com/in/josh-miranda-a53835165/" target="_blank"> LinkedIn </a> and [mirandajosh00@gmail.com](mailto:mirandajosh00@gmail.com)!
